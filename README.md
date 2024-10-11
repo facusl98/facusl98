@@ -6,7 +6,7 @@ I am a computer programming student, currently halfway through my degree. I am e
 
 - 🌱 I’m currently learning ...
   - SQL
-  - Php
+  - PHP
 <!--
 **facusl98/facusl98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
