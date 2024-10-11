@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi , I'm Facundo Castro👋
+
+About me
+
+I am a computer programming student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development,. I love to learn and build something new, productive, innovative and creative.
 
 <!--
 **facusl98/facusl98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
