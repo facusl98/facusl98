@@ -2,11 +2,11 @@
 
 About me
 
-I am a computer programming student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development,. I love to learn and build something new, productive, innovative and creative.
+I am a Computer Programming student currently in the final stage of my degree. I am continuously expanding my knowledge in both front-end and back-end development. I am passionate about learning, building new projects, and creating productive, innovative, and creative solutions.
 
 - 🌱 I’m currently learning ...
   - SQL
-  - ANGULAR
+  - REACT
 <!--
 **facusl98/facusl98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </span>
 
 <h4> Other Tools and Technologies </h4>
